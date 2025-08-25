@@ -2537,6 +2537,15 @@ section,
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+.portfolio-details .portfolio-overlay .portfolio-actions a {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
 @media (max-width: 575px) {
 
   .portfolio-details .swiper-button-prev,
